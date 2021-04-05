@@ -1,7 +1,7 @@
 # Seth Lewis
 Husband, reader, life-long learner, Full Stack Developer
 
->One does not accumulate but eliminate.It is not daily increase but daily decrease.<br> **The height of cultivation always runs to simplicity.**<br>
+>One does not accumulate but eliminate. It is not daily increase but daily decrease.<br> **The height of cultivation always runs to simplicity.**<br>
 >~Bruce Lee
 
 >Just remember: when you're through learning, you're *through*. Time to throw some dirt on ya'.\
