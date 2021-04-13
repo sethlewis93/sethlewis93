@@ -1,5 +1,5 @@
 # Seth Lewis
-Husband, reader, life-long learner, Full Stack Developer
+Husband, book worm, life-long learner, Full Stack Developer
 
 >One does not accumulate but eliminate. It is not daily increase but daily decrease.<br> **The height of cultivation always runs to simplicity.**<br>
 >~Bruce Lee
