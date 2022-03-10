@@ -11,7 +11,7 @@ Husband, book worm, life-long learner, Full Stack Developer
 ### Email
 lewis.sethc@pm.me
 ### [LinkedIn](https://www.linkedin.com/in/seth-lewis-a308191a6/)
-### [Portfolio](sethlewis.herokuapp.com)
+### [Portfolio](sethclewis.com)
 <!---
 sethlewis93/sethlewis93 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
