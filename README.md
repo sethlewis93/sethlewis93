@@ -1,7 +1,7 @@
 # Seth Lewis
 Persistent, thoughtful, and innovative, I am a programmer, educator, and businessman, striving to provide value for others at every turn.
 
-My constant aim as a knowledge worker is to facilitate people and organizations to do less manual work and more meaningful work.
+My aim is to facilitate people and organizations to do less manual work and more meaningful work.
 
 >One does not accumulate but eliminate. It is not daily increase but daily decrease.<br>
 **The height of cultivation always runs to simplicity.**<br>
